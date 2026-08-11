@@ -1,4 +1,18 @@
-## Hi there 👋
+# Nissim Farhy
+
+Physics & Applied Mathematics student at Yeshiva University.
+
+## Research Interests
+
+- Computational physics
+- Complex systems and network science
+- Machine learning
+- Mathematical modeling
+- Stochastic processes
+
+## Research
+
+Research portfolio currently under construction.
 
 <!--
 **nissimfarhy/NissimFarhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
